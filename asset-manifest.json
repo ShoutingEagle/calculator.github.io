@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/calculator.github.io.git/static/css/main.38fbe84c.css",
+    "main.js": "/calculator.github.io.git/static/js/main.b3b7f602.js",
+    "static/media/logo.svg": "/calculator.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/calculator.github.io.git/index.html",
+    "main.38fbe84c.css.map": "/calculator.github.io.git/static/css/main.38fbe84c.css.map",
+    "main.b3b7f602.js.map": "/calculator.github.io.git/static/js/main.b3b7f602.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38fbe84c.css",
+    "static/js/main.b3b7f602.js"
+  ]
+}
